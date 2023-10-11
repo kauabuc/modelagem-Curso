@@ -1,3 +1,11 @@
+CREATE DATABASE db.faculdade;
+
+CREATE TABLE departamento (
+	id_departamento SERIAL PRIMARY KEY,
+	nome_departamento VARCHAR(20)
+);
+
+
 CREATE TABLE professor(
 	cod_professor SERIAL PRIMARY KEY,
 	nome_professor VARCHAR(20) NOT NULL,
