@@ -1,2 +1,2 @@
-﻿# Curso de modelagem da Boson treinamentos
+﻿# Desafio de modelagem do curso da Boson treinamentos
 ![](modelagem.png)
